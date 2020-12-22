@@ -7,14 +7,18 @@ commands:
   discord:
     description: "Vous donne le lien du serveur discord"
     usage: "/discord"
+    permission: terateam.commandstool.cmd
   web:
     description: "Vous donne le lien vers le site web"
     usage: "/web"
+    permission: terateam.commandstool.cmd
   support:
     description: "Vous donne le lien vers le support du serveur"
     usage: "/support"
+    permission: terateam.commandstool.cmd
   reglement:
     description: "Vous donne le lien vers le règlement du serveur"
     usage: "/reglement"
+    permission: terateam.commandstool.cmd
 
 
